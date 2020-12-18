@@ -1,0 +1,15 @@
+{
+    "version": "v${VERSION}",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/brad-jones/ssh-add-with-pass/releases/download/v${VERSION}/ssh_add_with_pass_windows_amd64.zip",
+            "bin": [
+                "ssh_add_with_pass.exe"
+            ],
+            "hash": "${HASH}"
+        }
+    },
+    "homepage": "https://github.com/brad-jones/ssh-add-with-pass",
+    "license": "MIT",
+    "description": "Wrapper around ssh-add that uses expect to unlock the provided key."
+}

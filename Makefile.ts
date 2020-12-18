@@ -373,4 +373,10 @@ export async function publishRelease() {
 
 // >>> ENTRYPOINT
 // -----------------------------------------------------------------------------
-module.exports[config._[0]].apply(null);
+module.exports[config._[0]]
+	.apply(null)
+	.then(() => process.exit(0))
+	.catch((e) => {
+		logger.error(e);
+		process.exit(1);
+	});

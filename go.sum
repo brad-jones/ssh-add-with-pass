@@ -1,7 +1,7 @@
 github.com/ActiveState/termtest/conpty v0.5.0 h1:JLUe6YDs4Jw4xNPCU+8VwTpniYOGeKzQg4SM2YHQNA8=
 github.com/ActiveState/termtest/conpty v0.5.0/go.mod h1:LO4208FLsxw6DcNZ1UtuGUMW+ga9PFtX4ntv8Ymg9og=
-github.com/ActiveState/termtest/expect v0.6.0 h1:JOedaIxEhsLWZ7E6QKLv/3B8BskHcsHsU/uRpXSjrQU=
-github.com/ActiveState/termtest/expect v0.6.0/go.mod h1:64QuJvMtMu7+H5U+5TSMBxAs1FAaLvRIyN7WPOICido=
+github.com/ActiveState/termtest/expect v0.7.0 h1:VNrcfXTHXXoe7i+3WgF5QJhstQLGP4saj+XYM9ZzBvY=
+github.com/ActiveState/termtest/expect v0.7.0/go.mod h1:64QuJvMtMu7+H5U+5TSMBxAs1FAaLvRIyN7WPOICido=
 github.com/ActiveState/termtest/xpty v0.6.0 h1:L9c17TDfy+ed+tY5cMOErn0n2EYG4tj8StdxHmoPok8=
 github.com/ActiveState/termtest/xpty v0.6.0/go.mod h1:MmTm/62Ajq+D92emHq8LOu9Q+2+pkBurDLahkUP6Odg=
 github.com/ActiveState/vt10x v1.3.1 h1:7qi8BGXUEBghzBxfXSY0J77etO+L95PZQlwD7ay2mn0=

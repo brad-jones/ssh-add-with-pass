@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/brad-jones/ssh-add-with-pass/compare/v1.0.0...v1.0.1) (2020-12-18)
+
+
+### Bug Fixes
+
+* use correct token in pipeline ([b022280](https://github.com/brad-jones/ssh-add-with-pass/commit/b02228076b3081445121fd5417fb878af900dd0f))
+
 # 1.0.0 (2020-12-18)
 
 

@@ -22,7 +22,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Read .go-version
-        run: echo ::set-output name=GO_VERSION::$(cat .go-version | cut -c 2-)
+        run: echo ::set-output name=GO_VERSION::$(cat .go-version | xargs)
         id: gvm
       - uses: actions/setup-go@v2
         with:
@@ -43,13 +43,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Read .go-version
-        run: echo ::set-output name=GO_VERSION::$(cat .go-version | cut -c 2-)
+        run: echo ::set-output name=GO_VERSION::$(cat .go-version | xargs)
         id: gvm
       - uses: actions/setup-go@v2
         with:
           go-version: ${{ steps.gvm.outputs.GO_VERSION }}
       - name: Read .node-version
-        run: echo ::set-output name=NODE_VERSION::$(cat .node-version | cut -c 2-)
+        run: echo ::set-output name=NODE_VERSION::$(cat .node-version | xargs)
         id: nvm
       - uses: actions/setup-node@v1
         with:

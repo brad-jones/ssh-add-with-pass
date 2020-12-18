@@ -2,7 +2,7 @@ on:
   pull_request:
   push:
     branches-ignore:
-      - 'dependabot/**'
+      - "dependabot/**"
 
 env:
   CI: true
@@ -67,4 +67,4 @@ jobs:
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: ${{ runner.os }}-node-
       - run: npm ci
-      - run: npx semantic-release --dry-run
+      - run: npx semantic-release

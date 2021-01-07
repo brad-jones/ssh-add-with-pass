@@ -10,7 +10,7 @@
 		"@semantic-release/release-notes-generator": "^9.0.1",
 		"@types/archiver": "^5.1.0",
 		"@types/yargs": "^15.0.12",
-		"archiver": "^5.1.0",
+		"archiver": "^5.2.0",
 		"execa": "^5.0.0",
 		"hasha": "^5.2.2",
 		"husky": "^4.3.6",

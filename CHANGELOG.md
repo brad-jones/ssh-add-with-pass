@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/brad-jones/ssh-add-with-pass/compare/v1.0.1...v1.0.2) (2021-03-11)
+
+
+### Bug Fixes
+
+* bumped node & go versions ([265d408](https://github.com/brad-jones/ssh-add-with-pass/commit/265d408e6e50046acf5294b194315a8182f3e350))
+
 ## [1.0.1](https://github.com/brad-jones/ssh-add-with-pass/compare/v1.0.0...v1.0.1) (2020-12-18)
 
 

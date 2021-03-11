@@ -14,12 +14,14 @@ github.com/Netflix/go-expect v0.0.0-20201103021302-07164a2e4b01 h1:pAIcBEb4XsH10
 github.com/Netflix/go-expect v0.0.0-20201103021302-07164a2e4b01/go.mod h1:68ORG0HSEWDuH5Eh73AFbYWZ1zT4Y+b0vhOa+vZRUdI=
 github.com/autarch/testify v1.2.2 h1:9Q9V6zqhP7R6dv+zRUddv6kXKLo6ecQhnFRFWM71i1c=
 github.com/autarch/testify v1.2.2/go.mod h1:oDbHKfFv2/D5UtVrxkk90OKcb6P4/AqF1Pcf6ZbvDQo=
-github.com/brad-jones/goasync/v2 v2.1.1 h1:0LuWfJWtgkqEdMLQVJmDMX78fx2o0BcecrQTpr+P2F4=
-github.com/brad-jones/goasync/v2 v2.1.1/go.mod h1:Q6AiIqVl/tTEMcVBQFQx3w2W4pu9zIIkgrYTWvzhU1Q=
+github.com/brad-jones/goasync/v2 v2.1.2 h1:X4HQtYmdv6zUEVBvT+rT88j0z5jKbvhrLYZIa0pJ4qs=
+github.com/brad-jones/goasync/v2 v2.1.2/go.mod h1:IpxsCArvwhTrAvqtI/l62exEiy1qEGSRRFjr7acCRLE=
 github.com/brad-jones/goerr/v2 v2.1.1 h1:X+0lMbQmRktHDH411d2eAG6p19g6KyGnSrZCoOLJTEI=
 github.com/brad-jones/goerr/v2 v2.1.1/go.mod h1:Tj0XvHoA0mA1ydoXzedjw7tNVcTWRAgTLG5t18UM4cE=
-github.com/brad-jones/goexec/v2 v2.1.2 h1:9eWO9UfGPoi8gAbeoK6GsS6setNQf/ZuQV1ShvhF6+g=
-github.com/brad-jones/goexec/v2 v2.1.2/go.mod h1:aIS6DdQVq1hLq6REBMCWwxpAILFj0fQl9ZUVlb9RTeE=
+github.com/brad-jones/goerr/v2 v2.1.3 h1:lZmGtX3V4FZzjjtE/VYrdkbuZSSNi+U+DghS6MZbpA4=
+github.com/brad-jones/goerr/v2 v2.1.3/go.mod h1:jgrXwBUs8JC5im8qIxaKsr/NYV/nrG7P4k9zL/ZQgl4=
+github.com/brad-jones/goexec/v2 v2.1.5 h1:QZKtRcdtLTeHF40wn7pJyxhjl3l7nMXS876yejJFxKc=
+github.com/brad-jones/goexec/v2 v2.1.5/go.mod h1:bxQCJLjDQYnX+JVns0cl597hELzEh/gspCjm2+8MXp8=
 github.com/brad-jones/goprefix/v2 v2.0.1 h1:Uw21ZBPZi2GMs0HSRR6QTPtm8o07MXmCURLDOTGeW6U=
 github.com/brad-jones/goprefix/v2 v2.0.1/go.mod h1:bTkp3UY4ZUR+hibkIbSlV/Xyu/HES0C3SkPi56dqM2Y=
 github.com/creack/pty v1.1.7/go.mod h1:lj5s0c3V2DBrqTV7llrYr5NG6My20zk30Fl46Y7DoTY=
@@ -57,6 +59,8 @@ github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81P
 github.com/stretchr/testify v1.5.1/go.mod h1:5W2xD1RspED5o8YsWQXVCued0rvSQ+mT+I5cxcmMvtA=
 github.com/stretchr/testify v1.6.1 h1:hDPOHmpOpP40lSULcqw7IrRb/u7w6RpDC9399XyoNd0=
 github.com/stretchr/testify v1.6.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
+github.com/stretchr/testify v1.7.0 h1:nwc3DEeHmmLAfoZucVR881uASk0Mfjw8xYJ99tb5CcY=
+github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/wesovilabs/koazee v0.0.5/go.mod h1:pYhJpCWJQGXU5aVVD+LxutvCKLDSK8I7g5htWvaZlvw=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20200427165652-729f1e841bcc h1:ZGI/fILM2+ueot/UixBSoj9188jCAxVHEZEGhqq67I4=

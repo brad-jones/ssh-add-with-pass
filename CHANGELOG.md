@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/brad-jones/ssh-add-with-pass/compare/v1.0.2...v1.0.3) (2021-03-14)
+
+
+### Bug Fixes
+
+* **deps:** bump github.com/brad-jones/goerr/v2 from 2.1.1 to 2.1.3 ([#32](https://github.com/brad-jones/ssh-add-with-pass/issues/32)) ([1a90d81](https://github.com/brad-jones/ssh-add-with-pass/commit/1a90d8127e2f79f59ca620be71e80ef4a129ca42))
+
 ## [1.0.2](https://github.com/brad-jones/ssh-add-with-pass/compare/v1.0.1...v1.0.2) (2021-03-11)
 
 

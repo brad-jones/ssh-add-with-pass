@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/brad-jones/ssh-add-with-pass/compare/v1.0.3...v1.0.4) (2021-03-14)
+
+
+### Bug Fixes
+
+* **deps:** bump github.com/brad-jones/goexec/v2 from 2.1.2 to 2.1.6 ([#35](https://github.com/brad-jones/ssh-add-with-pass/issues/35)) ([56f611e](https://github.com/brad-jones/ssh-add-with-pass/commit/56f611e5d59c05bfcc0fa8db3c7494c6cca1c36f))
+
 ## [1.0.3](https://github.com/brad-jones/ssh-add-with-pass/compare/v1.0.2...v1.0.3) (2021-03-14)
 
 

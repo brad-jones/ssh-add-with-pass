@@ -1,5 +1,5 @@
 on:
-  pull_request:
+  pull_request_target:
   push:
     branches-ignore:
       - "dependabot/**"
@@ -36,6 +36,7 @@ jobs:
       - run: go test -v ./...
 
   release:
+    if: "! contains(github.event_name, 'pull_request')"
     needs: test
     runs-on: ubuntu-latest
     env:

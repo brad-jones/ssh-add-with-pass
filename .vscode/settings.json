@@ -1,0 +1,22 @@
+{
+	"cSpell.words": [
+		"ENTRYPOINT",
+		"GOARCH",
+		"commitlint",
+		"dependabot",
+		"dpkg",
+		"execa",
+		"goerr",
+		"goexec",
+		"gofmt",
+		"gomod",
+		"goreleaser",
+		"hasha",
+		"ldflags",
+		"nfpm",
+		"rpms",
+		"termtest",
+		"tslog",
+		"xargs"
+	]
+}
